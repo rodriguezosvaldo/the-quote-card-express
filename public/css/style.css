@@ -8,7 +8,6 @@ body {
 }
 
 .background-img {
-    background-image: url("/public/images/background.jpg");
     background-size: cover;
     background-position: center;
     height: 500px;
@@ -33,13 +32,13 @@ body {
     font-size: 1rem;
     font-weight: 200;
     text-align: center;
-    color: black;
+    color: white;
 }
 
 .author-text {
     font-size: 0.6rem;
     font-weight: 200;
-    color: black;
+    color: white;
     text-align: center;
 }
 
